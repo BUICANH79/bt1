@@ -1,4 +1,10 @@
-1.Các bước để chạy CT Quản lý Giaó Viên 
+[I. Các bước chạy](#Modau)
+
+
+[I. hai](#Modau1)
+<a name="Modau1"></a>
+1.Các bước để chạy CT Quản lý Giaó Viên
+
 
 1.1tải tập tin QLGV.sql về và sử dụng  SQL SERVER,(KHUYẾN KHÍCH SỬ DỤNG SQL 2012 TRỞ LÊN )
 
@@ -59,6 +65,7 @@ Cửa sổ hiển thị cơ sở giáo viên và danh sách đào tạo
 
  Từ băng này ta có các thao tác xóa , hiển thị thông tin giáo viên ở dưới như sau :
 
+<a name="Modau1"></a>
 2.2.1 Ở hiện thị danh sách giáo viên  
 
 
